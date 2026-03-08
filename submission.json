@@ -1,0 +1,7 @@
+{
+  "prompt": "An emotional visualization of global CO2 emissions inequality, a dark earth where a few bright industrial cities release massive smoke clouds that spread across the sky while most of the planet remains dim and quiet, cinematic lighting, dramatic atmosphere, magazine cover style, symbolic environmental storytelling",
+  "model": "DALL·E 3",
+  "dataset_name": "Global CO2 Emissions Dataset",
+  "dataset_url": "https://ourworldindata.org/co2-and-greenhouse-gas-emissions",
+  "insight": "A small number of industrial regions produce most of the world's CO2 emissions."
+}
